@@ -24,17 +24,17 @@ return [
             "72737"=>["title"=>"No. of Bathrooms","type"=>"select","width"=>"3"],
             "97676"=>["title"=>"Date available","type"=>"textbox","width"=>"3"],
            ],
-
+ 
 'fieldsValue'=>[
    "year" =>  ["2025","2024","2023","2022","2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993", "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976", "1975", "1974", "1973", "1972", "1971", "1970", "1969", "1968", "1967", "1966", "1965", "1964", "1963", "1962", "1961", "1960", "1959", "1958", "1957", "1956", "1955", "1954", "1953", "1952", "1951", "1950", "1949", "1948", "1947", "1946", "1945", "1944", "1943", "1942", "1941", "1940", "1939", "1938", "1937", "1936", "1935", "1934", "1933", "1932", "1931", "1930", "1929", "1928", "1927", "1926", "1925", "1924", "1923", "1922", "1921", "1920", "1919", "1918", "1917", "1916", "1915", "1914", "1913", "1912", "1911", "1910", "1909", "1908", "1907", "1906", "1905", "1904", "1903", "1902", "1901"],
    "49621"=>  ["Abarth", "AC", "Aixam", "Alfa Romeo", "Asia", "Aston Martin", "Audi", "Austin", "Bedford", "Bentley", "BMC", "BMW", "Bristol", "Cadillac", "Caterham", "Chevrolet", "Chrysler", "Citroen", "Coleman Milne", "Corvette", "Dacia", "Daewoo", "DAF Trucks", "Daihatsu", "Daimler", "DE Tomaso", "Dodge", "DS", "Eagle", "Ebro", "ERF", "F.S.O.", "Farbio", "FBS", "Ferrari", "Fiat", "Foden", "Ford", "Great Wall", "Honda", "Hummer", "Hyundai", "Infiniti", "Invicta", "Isuzu", "Isuzu Trucks", "Iveco", "Jaguar", "Jeep", "Jensen", "Kia", "KTM", "Lada", "Lamborghini", "Lancia", "Land Rover", "LDV", "Lexus", "Ligier", "Lotus", "LTI", "MAN", "Marcos", "Marlin", "Maserati", "Maybach", "Mazda", "Mclaren", "Mercedes-Benz", "MG", "MG Motor UK", "MIA", "Microcar", "Mini", "Mitsubishi", "Mitsubishi CV", "Mitsubishi Fuso", "Morgan", "Nissan", "Noble", "Opel", "Perodua", "Peugeot", "PGO", "Piaggio", "Porsche", "Prindiville", "Proton", "Reliant", "Renault", "Renault Trucks", "Rolls-Royce", "Rover", "Saab", "SAN", "SAO", "Scania", "Seat", "Seddon Atkinson", "Skoda", "Smart", "Ssangyong", "Subaru", "Suzuki", "Talbot", "Tata", "TD Cars", "Tesla", "Toyota", "TVR", "Vauxhall", "Volkswagen", "Volvo", "Westfield", "Yugo", "Other"],
-   "42341"=>  ["F5mj"=>"Car Derived Van","R3MP"=>"Convertible","C7Bc"=>"Coupe","zuNM"=>"Estate","Z1L0"=>"Hatchback","OkOv"=>"Light 4x4 Utility","H4fX"=>"Minibus","mesM"=>"Motor Caravan","FNGl"=>"MPV","zu6k"=>"Panel Van","EK4x"=>"Pick Up","G0dt"=>"Saloon","bCvg"=>"Sports","r2J3"=>"Window Van","l5B8"=>"3 Door Hatchback","G62a"=>"5 Door Hatchback","FC4t"=>"2 Door Saloon","ktvv"=>"4 Door Saloon","Sc0d"=>"Other"],
-   "46431"=>  ["i5nn"=>"Biege","sZ02"=>"Black","jsT8"=>"Blue","0J60"=>"Bronze","xYCB"=>"Brown","lAhd"=>"Cream","1UEJ"=>"Gold","0S43"=>"Green","rhKY"=>"Grey","Y7ig"=>"Maroon","G5un"=>"Mauve","khDF"=>"Multi-Coloured","ZPcP"=>"Orange","5k4j"=>"Pink","gH6h"=>"Purple","tbbi"=>"Red","8oVy"=>"Silver","7eAF"=>"White","oMV8"=>"Yellow","mhAZ"=>"Other"],
-   "47671"=>  ["H6Vl"=>"Diesel","Jvzm"=>"Electric","7VoL"=>"Gas","ZK8l"=>"Gas Bi Fuel","yo7D"=>"Hybrid Electric","OVcg"=>"Petrol","aGFX"=>"Petrol/Gas","nSUA"=>"Other"],
-   "47787"=>  ["HgVl"=>"Manual","bgVd"=>"Automatic","HgV3"=>"Semi-Auto"],
-   "42323"=>  ["5UgK"=>"Apartment","zkhH"=>"Unit in condominium","oLYH"=>"Cottage/cabin","97o2"=>"Maisonette","SxPv"=>"Flat","gBrR"=>"House","HsXZ"=>"Annexe","5Hr4"=>"Loft","aM6U"=>"Townhouse","A0ZO"=>"Manufactured","f6XC"=>"Assisted living","pNRz"=>"Land"],
-   "56787"=>  ["v1mt"=>"1","abJC"=>"2","2bKA"=>"3","5z0c"=>"4","3jBn"=>"5","A45o"=>"6","cCGV"=>"7","uHk0"=>"8","mSMn"=>"9","xu4j"=>"10","4hnB"=>"11","I5AP"=>"12","yCgm"=>"13","cI6c"=>"14","UjEL"=>"15","vy0n"=>"16","D67K"=>"17","ERH5"=>"18","1ahT"=>"19"],
-   "72737"=>  ["v1mt"=>"1","abJC"=>"2","2bKA"=>"3","5z0c"=>"4","3jBn"=>"5","A45o"=>"6","cCGV"=>"7","uHk0"=>"8","mSMn"=>"9","xu4j"=>"10","4hnB"=>"11","I5AP"=>"12","yCgm"=>"13","cI6c"=>"14","UjEL"=>"15","vy0n"=>"16","D67K"=>"17","ERH5"=>"18","1ahT"=>"19"],
+   "42341"=>  ["Car Derived Van","Convertible","Coupe","Estate","Hatchback","Light 4x4 Utility","Minibus","Motor Caravan","MPV","Panel Van","Pick Up","Saloon","Sports","Window Van","3 Door Hatchback","5 Door Hatchback","2 Door Saloon","4 Door Saloon","Other"],
+   "46431"=>  ["Biege","Black","Blue","Bronze","Brown","Cream","Gold","Green","Grey","Maroon","Mauve","Multi-Coloured","Orange","Pink","Purple","Red","Silver","White","Yellow","Other"],
+   "47671"=>  ["Diesel","Electric","Gas","Gas Bi Fuel","Hybrid Electric","Petrol","Petrol/Gas","Other"],
+   "47787"=>  ["Manual","Automatic","Semi-Auto"],
+   "42323"=>  ["Apartment","Unit in condominium","Cottage/cabin","Maisonette","Flat","House","Annexe","Loft","Townhouse","Manufactured","Assisted living","Land"],
+   "56787"=>  ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19"],
+   "72737"=>  ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19"], 
 ],
 
 'connections'=>[
@@ -54,7 +54,7 @@ return [
                       "4"=>["idFields"=>["42323","56787","72737","97676"]]
                       ]
          ],
-   '555'=>["price"=>["enable"=>"yes","title"=>"Price","title"=>"Salary","type"=>"yes"]],
+   '555'=>["price"=>["enable"=>"yes","title"=>"Salary","type"=>"yes"]],
    '666'=>["price"=>["enable"=>"yes","title"=>"Price"]],
    '777'=>["price"=>["enable"=>"yes","title"=>"Price"]],
    '888'=>["price"=>["enable"=>"yes","title"=>"Price"]],
